@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+redis:6-alpine registry.cn-chengdu.personal.cr.aliyuncs.com/dify000/redis:6-alpine
