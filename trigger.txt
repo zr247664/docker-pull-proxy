@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-chengdu.aliyuncs.com/dify000/redis:6-alpine
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/dify000/redis:6-alpine
